@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/humboldt123/mellowTs/main/logo.png)
+
 # Mellow TS
 A terminal thing , in your web-browser.
 
