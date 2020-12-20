@@ -5,7 +5,7 @@ A terminal thing , in your web-browser; my submission for CodeFest α.
 
 ## Instructions
 
-You see it for yourself at [`terminal.skrub.dev`](https://terminal.skrub.dev) or, if you want to, build it.
+You can view the project without any setup at [`terminal.skrub.dev`](https://terminal.skrub.dev) or, if you want to, build it.
 
 ## Build Instructions
 
