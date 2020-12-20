@@ -15,7 +15,7 @@ Next, `git clone` this repo and navigate to it in your terminal of choice.
 
 Run `npm i` then `npm run build`, the bundled file should be in the `/dist` folder.
 
-You can now open `scripts/index.html`.
+You can now open `src/index.html`.
 
 ## In Terminal
 
