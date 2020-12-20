@@ -24,6 +24,6 @@ You can use `help` for a list of commands and hit Enter.
 
 ## Thanks To:
 
-Webpack
-Typescript
-Wttr.in
+- Webpack
+- Typescript
+- Wttr.in
