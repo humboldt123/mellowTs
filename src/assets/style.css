@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+
+    user-select: none;
+}
+.terminal {
+    font-size: larger;
+}
+
+.top {
+
+}
+.bottom {
+
+}
